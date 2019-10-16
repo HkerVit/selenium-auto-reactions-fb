@@ -47,7 +47,6 @@ def get_reactions_account(limit = 5):
 		#accout_list.append(acc_info)
 		print('run done account \n')
 	#print('get total '+str(len(accout_list)) + ' account avaiable !')
-# set_cookie('sb=eJuMXSopE9t9x7FSekKoM3HX; datr=eJuMXeBdtsHpKgZnG_QzJ8tK; xs=32%3Atgyed4byBzAehQ%3A2%3A1570168865%3A8397%3A6313; c_user=100016029917976; ')
 # find_posts_link()
 # reaction_post('', '')
 #reaction_post('', '')
